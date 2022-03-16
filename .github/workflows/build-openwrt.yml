@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/ios235free/21.02.1-openwrt
+  REPO_URL: https://github.com/zcracker/openwrt21.01.2
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
